@@ -23,12 +23,6 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Add a payment method solution to enable checkout and collecting payments
   * Associate each Merchant to a payment account 
 
-## Demo
-
-This application is deployed on Heroku. Please check it out :smile: [here](https://mern-store-80202.herokuapp.com/).
-
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
-
 ## Install
 
 Some basic Git commands are:
