@@ -28,7 +28,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/Joaq-peralta/Mern-Ecommerce.git
+$ git clone https://github.com/joaqperalta/ecommerce-using-mern.git
 $ cd project
 $ npm install
 ```
